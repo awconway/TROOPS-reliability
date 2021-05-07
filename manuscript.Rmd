@@ -1,0 +1,64 @@
+---
+title: "Predicting prolonged apnea during nurse-administered procedural sedation using machine learning"
+bibliography: "Extras/references.bib"
+csl: "Extras/jmir.csl"
+author:
+  - Aaron Conway PhD:
+      email: aaron.conway@utoronto.ca
+      phone: +1 416 946 7112
+      address: 585 University Ave | Toronto, ON  M5G 2N2
+      institute: [PMCC, LBFON, QUT]
+      correspondence: true
+  - Katina Corones PhD:
+      institute: [Griffith]
+      correspondence: false
+  - Kristina Chang MScN:
+      institute: [PMCC]
+      correspondence: false
+  - Navpreet Kamboj BScN:
+      institute: [LBFON]
+      correspondence: false
+
+institute:
+  - PMCC: Peter Munk Cardiac Centre, University Health Network, Toronto, Canada
+  - LBFON: Lawrence S. Bloomberg Faculty of Nursing, University of Toronto, Toronto, Canada
+  - QUT: School of Nursing, Queensland University of Technology (QUT), Brisbane, Australia
+  - Griffith: School of Nursing, Giffith University, Brisbane, Australia
+
+output:
+  officedown::rdocx_document:
+    reference_docx: Extras/manuscript_template.docx
+    pandoc_args:
+      - --lua-filter=Extras/scholarly-metadata.lua
+      - --lua-filter=Extras/author-info-blocks.lua
+---
+
+```{r setup, echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE,message=FALSE, warning=FALSE, fig.retina=8)
+```
+
+## Abstract
+
+### Background
+
+
+### Objective
+
+
+### Methods
+
+
+### Results
+
+
+### Conclusion
+
+
+**Keywords**
+
+Procedural sedation and analgesia; conscious sedation; nursing; patient safety; anesthesia
+
+\pagebreak
+
+## Introduction
+
