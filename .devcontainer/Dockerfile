@@ -1,8 +1,6 @@
 FROM rocker/tidyverse
 
 RUN install2.r --error \
-    targets \
-    tarchetypes \
     languageserver \
     httpgd \
     flextable \
@@ -10,6 +8,10 @@ RUN install2.r --error \
     officer \
     gtsummary
 
+RUN installGithub.r \
+    ropensci/targets \
+    ropensci/tarchetypes \
+    awconway/TROOPS-reliability
 
 
 # [Option] Install zsh

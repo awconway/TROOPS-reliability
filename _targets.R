@@ -1,7 +1,6 @@
 library(targets)
 library(tarchetypes)
 
-# pak::pkg_install(".")
 options(tidyverse.quiet = TRUE)
 
 tar_option_set(packages = c(

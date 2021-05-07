@@ -1,9 +1,5 @@
 # Inter-rater reliability of the tracking and reporting outcomes of procedural sedation tool
 
-<!--TODO:update DOI in readme-->
-<!--TODO:remove local package install targets-->
-
-
 <!-- badges: start -->
 [![DOI](https://zenodo.org/badge/338164668.svg)](https://zenodo.org/badge/latestdoi/338164668)
 <!-- badges: end -->
