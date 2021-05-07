@@ -1,5 +1,5 @@
 Package: TROOPSreliability
-Title: Reliability of the Tracking and Reporting Outcomes of Procedural Sedation tool
+Title: Reliability of the Tracking and Reporting Outcomes of Procedural Sedation Tool
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Aaron",
@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "aaronconwayphd@gmail.com",
            comment = c(ORCID = "0000-0002-9583-8636"))
-Description: What the package does (one paragraph).
+Description: Statistical analysis pipeline using the targets package.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

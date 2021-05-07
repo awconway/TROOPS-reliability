@@ -1,13 +1,15 @@
 library(targets)
 library(tarchetypes)
 
-devtools::load_all()
+# pak::pkg_install(".")
 options(tidyverse.quiet = TRUE)
 
 tar_option_set(packages = c(
   "tidyverse",
-  "agreement"
-))
+  "agreement",
+  "TROOPSreliability"
+),
+imports = c("TROOPSreliability"))
 
 list(
   tar_target(
