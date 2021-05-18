@@ -11,7 +11,8 @@ RUN install2.r --error \
 RUN installGithub.r \
     ropensci/targets \
     ropensci/tarchetypes \
-    awconway/TROOPS-reliability
+    awconway/TROOPS-reliability \
+    jmgirard/agreement
 
 
 # [Option] Install zsh
