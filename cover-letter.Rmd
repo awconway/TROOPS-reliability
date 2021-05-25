@@ -1,0 +1,15 @@
+---
+date: "`r Sys.Date()`"
+toaddress: Journal of Radiology Nursing
+toname: Editorial Committee
+output: letters::uhn_letter
+knit: pagedown::chrome_print
+---
+
+On behalf of my co-authors, I am pleased to submit our manuscript entitled “Inter-rater reliability of the tracking and reporting outcomes of procedural sedation tool".
+
+One central aspect of ensuring patient safety during sedation that is recommended in clinical guidelines is auditing of sedation-related outcomes. The Tracking and Reporting Outcomes of Procedural Sedation (TROOPS) tool was developed by the International Consortium for the Advancement of Procedural Sedation. However, the feasibility and reliability of using the TROOPS tool for measuring the outcomes of sedation that is administered by nurses has yet to be evaluated. Such evaluation is required in order for the auditing component to be considered valid enough to inform practice improvement initiatives. 
+
+In this study we evaluated the inter-rater reliability of paired ratings of sedation-related adverse events using a version of the TROOPS tool containing items from the minor, intermediate and sentinel categories. It was found that there was a moderate level of consistency between nurses' ratings. Our finding that ratings between nurses were not in perfect agreement may be a somewhat surprising finding, considering the relatively simple measurement scale. This finding underscores the need for rigorous assessment of reliability for measurement tools intended for use not only in research but also in quality improvement. We also found that use of this tool in clinical practice seems feasible, with the time required to complete the ratings being very minimal. 
+
+I also confirm that this data has not been published previously.

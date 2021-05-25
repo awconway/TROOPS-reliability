@@ -1,7 +1,7 @@
 # Inter-rater reliability of the tracking and reporting outcomes of procedural sedation tool
 
 <!-- badges: start -->
-[![DOI](https://zenodo.org/badge/338164668.svg)](https://zenodo.org/badge/latestdoi/338164668)
+[![DOI](https://zenodo.org/badge/174196426.svg)](https://zenodo.org/badge/latestdoi/174196426)
 <!-- badges: end -->
 
 >This repository hosts raw data and code required to completely reproduce the statistical analyses.  All code is in `R`. The targets package was used to manage the workflow.
