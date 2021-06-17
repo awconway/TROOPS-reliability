@@ -1,0 +1,93 @@
+---
+output: 
+    pagedown::html_paged:
+        css: styles.css
+knit: pagedown::chrome_print
+---
+
+Thank you for allowing us the opportunity to revise our manuscript. Below are the reviewers' comments and our responses.
+
+**Reviewer 1**
+
+*General Overview*
+
+> Thank you for the opportunity to review "Inter-rater reliability of the tracking and reporting outcomes of procedural sedation tool," submitted for consideration to the Journal of Radiology Nursing. This manuscript addresses a very interesting area of research and discusses an important topic with regard to outcomes for procedural sedation.
+
+*Other Comments*
+
+>1.The manuscript is well organized overall with regard to the clear sections denoting the introduction, stated aims, methods, and results as examples.
+
+Thank you.
+
+>2.Introduction: It may strengthen the introduction of the paper if details related to the impact of sedation-related complications were added.
+
+Added to the introduction:
+
+'Serious adverse effects of sedation, such as respiratory compromise, are associated with worse clinical outcomes and higher costs.'
+
+>3.Line 53, Participants: It is recommended by this reviewer that 'nurse - administered sedation' is specifically defined for the reader as this concept can have multiple meanings.
+
+Added the following:
+
+'Nurse-administered sedation' is when nurses administer a combination of sedative and analgesic medications prescribed by the proceduralist performing the procedure.
+
+>4.Line 16, Measurement: There is a brief description of the TROOPS tool provided in the introduction however, it is unclear as to whether the TROOPS tool is a validated measure for groups other than nursing. If it is a validated measure there is concern related to adding and subtracting questions and how this impacts the overall validity of the measure.
+
+Added:
+
+The TROOPS tool has not undergone validity or reliability assessment in any other clinical setting. 
+
+>5.Line 45, Measurement: It appears that some modifications were made to the TROOPS tool for purposes of this study testing the feasibility and reliability for use by nurses. By making changes to the TROOPS QI tool, the feasibility and reliability of the TROOPS QI tool was not necessarily tested. Instead this reviewer would suggest the authors tested the feasibility and reliability of a modified version of the tool they created for the study, not the actual TROOPS QI tool itself. Additional studies assessing feasibility and reliability for nursing would need to use the modified version creating by these authors.
+
+We agree with this statement. In the original manuscript we used the phrase 'version of the TROOPS tool' to make the distinction that the exact tool was not used. In this revision, we instead add the term 'modified' to make the distinction clearer. We made this change in the manuscript and throughout the main body of the manuscript. 
+
+>6.Line 19, Data collection: If possible please define the role of 'scout' and 'monitor.'
+
+Added:
+
+The nurse performing the 'scout' role was responsible for administering direct patient care and procedural support. The nurse performing the 'monitor' role was responsible for physiological monitoring and related documentation.
+
+
+>7.Line 19, Is it possible that ratings between nurses using the TROOPS tool were not in agreement due to the modifications? Has IRR been calculated using the tool in other scenarios?
+
+The IRR of the tool has not been evaluated previously. But we agree that our estimates of IRR are only relevant to the modified version of the tool that we used in the study. We added this sentence to the limitations section:
+
+'Finally, estimates of inter-rater reliability reported in this study should only be considered applicable to the modified version of the tool that we used, not the original research or QI versions of the TROOPS tool.'
+
+**Reviewer #2**
+
+>Summary - The researchers conducted a quality improvement check on the interrater reliability of the TROOPS tool to be used in the cardiac catherization lab for procedural sedation outcomes. Overall, the manuscript is clearly written and does not overreach conclusions of results. There are some points of clarity that are outlined below.
+
+Thank you
+
+:::{.break}
+>Abstract - The abstract was comprehensive. It may have been helpful for the abstract to be structured following the research headings of background, purpose, methods, results, conclusion. The reader was unclear of the purpose of the manuscript until the last sentence of the abstract.
+:::
+
+We decided not to change to a structured style for the abstract, as the unstructured style seems to be used for other research articles published in the Journal of Radiology Nursing.
+
+>The last sentence of the abstract - using the word "seems" does not provide confidence to the reader that the TROOPS tool is one that should be adopted. Suggest a rewrite.
+
+Changed sentence to:
+
+"Use of this tool in clinical practice is feasible and reliable."
+
+> Purpose and Aims: The purpose and aims statements are clear and easy to understand. For improved readability suggest that aim 'b' be revised to read……..calculate to determine the impact that integrating auditing of sedation outcomes into routine clinical practice on nurse workload).
+
+Bullet point changed to:
+
+Time taken for nurses to complete the TROOPS tool (calculated to determine the impact that integrating auditing of sedation outcomes into routine clinical practice on nurse workload).
+
+>  Participants: Suggest providing your n=40 patients here in this section. This will make it clearer for the reader to understand the data collection and data analysis sections.
+
+We believe that the number of participants included in the study is better suited to be presented in the results section. No changes were made.
+
+>Data collection: The terms scout and monitor need to be defined for the readership. These are not universally understood terms or roles internationally, nor outside cardiac catheterization.
+
+Added:
+
+The nurse performing the 'scout' role was responsible for administering direct patient care and procedural support. The nurse performing the 'monitor' role was responsible for physiological monitoring and documentation.
+
+>Discussion: Given that the results showed minor adverse effects in 50% of your patients, I wonder if the point should be made in the discussion that the anticipation of potential minor adverse effects such as the need for oxygen support or antiemetics during procedural sedations is the very reason these patients are 1:1 nursing surveillance during their sedation. The finding of a minor adverse effect such as was reported does not surprise me. Missing however in the discussion is what was done about these findings at the clinical level during the sedations. Minor adverse events escalate into intermediate or serious adverse events if not recognized and treated while still minor. Therefore, somewhat concerning is that only one rater reported the adverse event and the other missed that it occurred. I think it would be more interesting to the readership to have some discussion on this point. Consistency of nursing surveillance improves patient outcomes.
+
+We do of course agree that nursing surveillance is vital. However, the design of this study was solely focused on investigating the inter-rater reliability and feasibility of using the TROOPS tool for nurse-administered sedation in the cath lab. We would prefer to avoid discussing possible clinical implications of the ~50% minor adverse event rate, because we have no way of knowing that this is an accurate estimate of the true event rate. As stated in the limitations section, estimating the prevalence of adverse sedation-related events was not the primary purpose of this study so we did not collect information about the total number of procedures performed with sedation over the data collection period to determine the exact proportion of completed TROOPS ratings. 

@@ -1,0 +1,66 @@
+@import 'https://fonts.googleapis.com/css2?family=BioRhyme:wght@200;300;700;800&display=swap';
+
+body {
+  font-family: 'BioRhyme', serif;
+  line-height: 1.5em;
+  font-size: 11pt;
+}
+
+.from{
+  position: running(header-from);
+  color: rgb(18.641663%,40.481567%,73.120117%);
+  font-size: 0.8em;
+  line-height: 1.2em;
+  font-weight: 200;
+}
+
+.from li {
+  text-align: right;
+}
+
+@page {
+  size: letter;
+  margin: 4cm 3cm;
+
+  @top-left {
+    content: element(header-logo);
+  }
+  @top-right {
+    content: element(header-from);
+  }
+}
+
+a {
+  color: rgb(18.641663%,40.481567%,73.120117%);
+}
+
+.logo {
+  position: running(header-logo);
+}
+
+.end {
+  line-height: 1.2em;
+}
+
+.end a {
+  color: #000;
+}
+
+.end br {
+  line-height: 0em;
+}
+
+.date {
+  text-align: left;
+}
+
+blockquote {
+  border-left: 5px solid #f5f5f5;
+  margin: 0 5px;
+  padding: 0 5px;
+  font-style: italic;
+}
+
+.break {
+  break-before: always;
+}
